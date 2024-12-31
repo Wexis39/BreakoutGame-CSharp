@@ -1,0 +1,12 @@
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\bin\Debug\TableTennis.exe.config
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\bin\Debug\TableTennis.exe
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\bin\Debug\TableTennis.pdb
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\obj\Debug\BreakoutGame.csproj.AssemblyReference.cache
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\obj\Debug\TableTennis.GameOverForm.resources
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\obj\Debug\TableTennis.MainForm.resources
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\obj\Debug\TableTennis.Properties.Resources.resources
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\obj\Debug\TableTennis.StartForm.resources
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\obj\Debug\BreakoutGame.csproj.GenerateResource.cache
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\obj\Debug\BreakoutGame.csproj.CoreCompileInputs.cache
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\obj\Debug\TableTennis.exe
+C:\Users\meteh\Desktop\TableTennis\TableTennis\TableTennis\obj\Debug\TableTennis.pdb
